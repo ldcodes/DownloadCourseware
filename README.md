@@ -2,7 +2,7 @@
 download all courseware on the web
 
 # request
-````
+```
 pip install Scrapy
 ```
 
